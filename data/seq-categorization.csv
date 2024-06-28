@@ -1,0 +1,137 @@
+refid,seq,seq_categor
+22,Affymetrix 6.0 array,snp_abg
+44,Illumina’s Global Screening Array (GSA) version 2.0,snp_abg
+49,probes from TaqMan,pcr_specific_target
+53,TaqMan SNP Genotyping Assays,pcr_specific_target
+325,whole genome sequencing,sequencing
+730,pyrosequencing,pcr_specific_target
+734,"Illumina HumanOmniExpressExome 8 v1-2 BeadChip, Illumina HumanExome BeadChip 12.v.1.0,  Illumina Infinium OmniExpress-24 BeadChips",sequencing
+737,direct nucleotide sequencing of PCR,pcr_specific_target
+750, PanScan I or PanScan II GWAS,snp_abg
+783,"Affymetrix 6.0 array,  Affymetrix 500k mapping array",snp_abg
+800,iPLEX assay,snp_abg
+804,Illumina HumanOmniExpress-12v1_H,snp_abg
+816,Illumina HumanHap300v1,snp_abg
+821,"Illumina OmniExpress panel, Illumina PsychArray panel",snp_abg
+823,genotyped using the Illumina GoldenGate platform,snp_abg
+824,Illumina Goldengate platform,snp_abg
+828,PCR with sequence specific primers,pcr_specific_target
+839,"Affymetrix, Version 6.0 platform",snp_abg
+866,Illumina 660 W array,snp_abg
+927,"Illumina HumanHap300 Bead Chip, Illumina HumanHap610 Quad Chip",snp_abg
+1071,previously typed for genome-wide genotyped data,sequencing
+1127,5′nuclease TaqMan allelic discrimination assay,pcr_specific_target
+1191,Infinium Global Screening Array,snp_abg
+1192,multiplexed PCR amplicons melting assay,pcr_specific_target
+1226,TaqMan-based SSP-PCR and PCR-RFLP,pcr_specific_target
+1310,llumina HumanCoreExome-24 BeadChip,snp_abg
+1356,PCR-direct sequencing,pcr_specific_target
+1614,allelespecific PCR-based KASPar SNP genotyping system,pcr_specific_target
+1656,real-time polymerase chain reaction (PCR) and high-resolution melting (HRM) assay,"pcr_specific_target, snp_abg"
+1680,Illumina Global Screening Array v 2.0,snp_abg
+1753,droplet allelespecific PCR,pcr_specific_target
+1768,TaqMan genotyping assays,pcr_specific_target
+1777,multiplex polymerase chain reaction,pcr_specific_target
+1785,Illumina Omni2.5M array,snp_abg
+1797,Illumina Sentrix HumanHap300 Beadchip,snp_abg
+1838,Two Sets of sequence specific primers for chromosome 9 in the ABO gene,pcr_specific_target
+1846,genotyping method using a DNA chip,snp_abg
+1848,custom SNP array,snp_abg
+1850,Genomelab SNPstream genotyping,snp_abg
+1874,GoldenGate custom panel using BeadArray technology,snp_abg
+1948,Illumina The HumanCVD BeadChip,snp_abg
+1950,probes from TaqMan,pcr_specific_target
+7,TaqMan probes,pcr_specific_target
+10,TaqMan real-time PCR assay system,pcr_specific_target
+11,MassARRAY homogenous MassEXTEND assay of the Sequenom system,snp_abg
+25,Sequenom custom Mass ARRAY iPLEX Gold assay,snp_abg
+40,SNP PCR DNA sequencing,pcr_specific_target
+48,Genotyping via PanScan,snp_abg
+60,PCRâ€“restriction fragment length polymorphism with primers,pcr_specific_target
+65,TaqMan real-time PCR assay,pcr_specific_target
+89,Sequenomâ€™s MassARRAY multiplex,snp_abg
+98,Taqman assay,pcr_specific_target
+102,"Illumina HumanHap550 BeadChip,  Illumina OmniExpress BeadChip. Illumina custom array,   Illumina Global Screening Array",snp_abg
+139,Illumina HumanOmni 2.5â€“8 platform,snp_abg
+252,"UKB Axiom SNP array data, whole-exome sequencing","snp_abg, sequencing"
+264,PCR/ Specific SNP,pcr_specific_target
+277,"exome seqeuncing, Illumina TruSeq",sequencing
+279,PCR and RFLP methods,pcr_specific_target
+283,GWAS genotype information,snp_abg
+304,genotyping 2 known SNPs,pcr_specific_target
+355,"Illumina HumanOmniExpressExome BeadChip, Illumina HumanOmniExpress and HumanExome BeadChip, Applied Biosystems UK BiLEVE Axiom Array, Applied Biosystems UK Biobank Axiom Array",snp_abg
+373," Illumina’s GSA, followed by genotype QC analysis and TOPMed genotype imputation",snp_abg
+402,"Illumina HumanHap550 Infinium array,   Illumina Human610-Quad array,   Illumina HumanOmniExpressExome array, Affymetrix Axiom Genome-wide EUR array",snp_abg
+444,TaqMan assay,pcr_specific_target
+559,multiplex SBE PCR co-amplifying 4 SNPs,pcr_specific_target
+882,Illumina Infinium II HumanHap550 SNP chips,snp_abg
+904,PCR followed by restriction enzyme digestion,pcr_specific_target
+934,TaqMan assay,pcr_specific_target
+943,"Applied Biosystems UK BiLEVE Axiom Array by Affymetrix, Applied Biosystems UK Biobank Axiom Array",snp_abg
+950,"Axiom PMRA, Axiom UK Biobank, Axiom Biobank, Illumina GSA, Omni Express, 23&Me, Genes for Good, Exome Array","snp_abg, sequencing"
+953,customized array using the Illumina Beadstation Platform and GoldenGate technology,snp_abg
+973,TaqMan predesigned genotyping assays,pcr_specific_target
+1022,TaqMan SNP genotyping assay,pcr_specific_target
+1025,Sequenom MassArray genotyping platform,snp_abg
+1032,TaqMan genotyping,pcr_specific_target
+1036,ABO SNP variant,pcr_specific_target
+1039,"arrays: I550, PSYC, A5.0, A6.0, I650, OMEX, I317, COEX",snp_abg
+1044,Illumina HumanHap500 array,snp_abg
+1083,"UK Biobank Lung Exome Variant Evaluation Axiom,  UK Biobank Axiom array","snp_abg, sequencing"
+1124,Affymetrix Genome-Wide Human SNP 6.0 Array,snp_abg
+1139,UK BiLEVE array and Axiom array,snp_abg
+1149,Sequenom iPlex Gold Assay,snp_abg
+1183,genotyped using the 5â€²-nuclease assay,snp_abg
+1195,Illumina CardioMetaboChip Genotyping BeadChip,snp_abg
+1200,MALDI-TOF MS platform (MassARRAY),snp_abg
+1211,lllumina Infinium HumanOmniExpressExome BeadChip &  Multiplex PCR-based target sequencing for ABO,"pcr_specific_target, snp_abg"
+1218,Illumina 600K SNP BeadChip,snp_abg
+1229,Illumina HumanCoreExome BeadChip v1.0,snp_abg
+1252,Taq Man Probes,pcr_specific_target
+1266,Sequenom MassARRAY,snp_abg
+1286,UK Biobank Axiom Array,snp_abg
+1303,Affymetrix Genome-Wide Human SNP Array 6.0 chips. iPLEX system for genotyping,snp_abg
+1305,genotype data were obtained from our previous genome-wide association study,snp_abg
+1308,UK Biobank Axiom Array,snp_abg
+1315,Illumina Omni 1 M chip,snp_abg
+1366,Sequenom IPLEX genotyping platform,snp_abg
+1372,TaqMan assays; Ion Torrent sequencing,"pcr_specific_target, sequencing"
+1381,Multiple SNP arrays from previous studies,snp_abg
+1406,Genotyped using Metabochip and imputed to the 100 Genomes,snp_abg
+1458,TaqMan real-time PCR assay,pcr_specific_target
+1461,"Affymetrix-Axiom, Illumina-610, Illumina-Omni-1, Illumina-Omni-5, Affymetrix-6, Illumina660W, Illumina-Omni-Express",snp_abg
+1517,Used the PLINK software to analyze prior Array based GWAS data,snp_abg
+1530,The Illumina HumanCoreExome-24 v10A microarray,snp_abg
+1533,"Illumina HumanHap300 Duo-Plus chip, Illumina HumanHap300 Duo chip, Illumina I-Select chip",snp_abg
+1540,Taqman assay,pcr_specific_target
+1558,Illumina Infinium II HumanHap 550K Genotyping Bead-ChipÂ® version 3,snp_abg
+1561,whole genome sequence data,sequencing
+1565,"Illumina 610K, Taqman, Illumina iSelect, Illumina 550K","snp_abg, pcr_specific_target"
+1574,Affymetrix Genome-Wide Human 6.0 array,snp_abg
+1576,"Illumina genome-wide SNP arrays (the HumanCoreExome BeadChip, the Human610-Quad BeadChip and the HumanOmniExpress)","snp_abg, sequencing"
+1599,Real-Time PCR,pcr_specific_target
+1608,TaqMan genotyping assays,pcr_specific_target
+1613,allele-specific PCR-based KASPar SNP genotyping system,pcr_specific_target
+1634,"Affymetrix Genome-Wide Human SNP Array 6.0, Infinium OmniExpressExome array, Affymetrix Axiom array",snp_abg
+1635,TaqMan SNP assay,pcr_specific_target
+1647,TaqMan Genotyping Assays,pcr_specific_target
+1661,UKB Axiom array,snp_abg
+1668,"Illumina Omni 2.5, Illumina Omni Express, Affymetrix Axiom CEU1, Axiom custom array, Affymetrix Genome-Wide Human SNP Array 6.0, Illumina 200k Metabochip, Affymetrix Gene Chip Human Mapping 500 K Array Set, Illumina Human 670 k BeadChips","snp_abg, sequencing"
+1705,370 k Illumina HumanHap arrays,snp_abg
+1706,Sequenom platform; Illumina HumanCore Exome array,snp_abg
+1724,allele specific primer extension using MagPlex TAG Microspheres,pcr_specific_target
+1763,IBC Illumina iSELECT array,snp_abg
+1764,"Illumina OmniExpressExome, OmniExpress,  HumanExome BeadChip","snp_abg, sequencing"
+1766,"HumanHap610K, Invader assay, HumanHap550K, TaqMan assay","snp_abg, pcr_specific_target"
+1795,Sequenom MassArray genotyping,snp_abg
+1803,TaqMan allele-specific assay,pcr_specific_target
+1813,"Global Screening Array, Oncoarray, OmniX, or Omni 2.5",snp_abg
+1853,TaqMan PCR,pcr_specific_target
+1888,Illumina 550 HumanHap assay,snp_abg
+1893,Illumina Global Screening Array,snp_abg
+1906,single nucleotide primer extension-based method with the MegaBACE1000,pcr_specific_target
+1912,TaqMan SNP assay,pcr_specific_target
+1926,TaqMan SNP genotyping assay,pcr_specific_target
+1963,"Illumina OmniExpress, Omni1M arrays,  Affymetrix 6.0 arrays",snp_abg
+1967,"Illumina Human660-Quad BeadChips, TaqMan SNP genotyping, ABI 7900HT Fast Real-Time PCR System","pcr_specific_target, snp_abg"
+1970,"Illumina HumanOmniZhongHua-8 BeadChips, looked for frequency of specifc ABO SNPS","snp_abg, pcr_specific_target"

@@ -1,0 +1,137 @@
+refid,pheno,phenotype_classification
+22,coagulation factor VIII,hematological 
+44,COVID-19,infectious_disease
+49,stroke risk,cardiovascular
+53,autoimmune neutropenia of early childhood,immune_system
+325,coagulation factor VIII,hematological 
+730,venous thromboembolism,cardiovascular
+734,asthma,inflammatory
+737,ABO blood groups,hematological 
+750,pancreatic cancer,oncology
+783,sP-selectin and sICAM-1 levels,inflammatory
+800,ABO bloodtypes,hematological 
+804,venous thrombosis,cardiovascular
+816,Alzheimer’s disease,neurological
+821,risk of revision surgery following total joint arthroplasty,inflammatory
+823,venous thromboembolism,cardiovascular
+824,"coronary heart disease,  venous thromboembolism",cardiovascular
+828,ABO bloodtypes,hematological 
+839,von Willebrand factor antigen levels,hematological 
+866,esophageal and gastric cancers,oncology
+927,gut microbiota composition,digestive_system_gastrointestinal 
+1071,risk of venous thrombosis,cardiovascular
+1127,von Willebrand factor and factor VIII levels,hematological 
+1191,COVID-19,infectious_disease
+1192,ABO genotyping,hematological 
+1226,ABO genotyping,hematological 
+1310,insulin response,immune_system
+1356,angiotensin-converting enzyme inhibitor (enalapril) induced cough,cardiovascular
+1614,risk of advanced gastric precancerous lesions in Helicobacter pylori infected subjects,infectious_disease
+1656,prognosis of androgenetic gestational trophoblastic neoplasia,oncology
+1680,COVID-19,infectious_disease
+1753,ABO genotyping,hematological 
+1768,antituberculosis drug-induced liver injury,hepatic
+1777,angiotensin-I converting enzyme (ACE),cardiovascular
+1785,Human noroviruses,infectious_disease
+1797,venous thromboembolism,cardiovascular
+1838,ABO blood typing,hematological 
+1846,ABO genotyping,hematological 
+1848,genetic profiles for Taiwan Biobank,misc
+1850,DNA profiling and ABO genotyping,misc
+1874,thrombotic events and hemorrhagic stroke,cardiovascular
+1948,von Willebrand Factor Levels,hematological 
+1950,stroke,cardiovascular
+7,incident cognitive impairment & factor VIII,neurological
+10,risk of pancreatic cancer,oncology
+11,venous thromboembolism,cardiovascular
+25,chronic pancreatitis risk,digestive_system_gastrointestinal 
+40,gastroduodenal ulcers,digestive_system_gastrointestinal 
+48,pancreatic cancer,oncology
+60,venous thromboembolism,cardiovascular
+65,"gastric cancer, atrophic gastritis,",multiple_phenotypes
+89,biomarkers of cardiometabolic disease in overweight adults,metabolic
+98,venous thromboembolism,cardiovascular
+102,COVID-19,infectious_disease
+139,serum alkaline phosphatases levels,hepatic
+252,44 different types of cancers & COVID-19,multiple_phenotypes
+264,ischemic stroke,cardiovascular
+277,venous thromboembolic disease,cardiovascular
+279,chronic heart failure,cardiovascular
+283,pancreatic adenocarcinoma,oncology
+304,"Helicobacter pylori infection, chronic corpus atrophic gastritis, pancreatic cancer",multiple_phenotypes
+355,220 phenotypes,misc
+373,COVID-19,infectious_disease
+402,pancreatic cancer,oncology
+444,venous thromboembolism,cardiovascular
+559,ancient remains from the Central Andes,misc
+882,angiotensin-converting enzyme,cardiovascular
+904,COVID-19,infectious_disease
+934,venous thromboembolism,cardiovascular
+943,COVID-19,infectious_disease
+950,SNP panels,misc
+953,gastric cancer,oncology
+973,pancreatic cancer,oncology
+1022,Crohn's disease,immune_system
+1025,Plasmodium falciparum malaria,infectious_disease
+1032,pancreatic ductal adenocarcinoma,oncology
+1036,hemophilia A,hematological 
+1039,major depressive disorder,neurological
+1044,invasive breast cancer,oncology
+1083,41 health and disease outcomes; ABO blood types,multiple_phenotypes
+1124,plasma FVIII:c,hematological 
+1139,common inflammatory and cardiovascular diseases,multiple_phenotypes
+1149,venous thromboembolism,cardiovascular
+1183,type 1 von Willebrand disease,hematological 
+1195,acute coronary syndrome,cardiovascular
+1200,blood group alleles,hematological 
+1211,heparin-induced thrombocytopenia,hematological 
+1218,plasma levels of pancreatic lipase and angiotensin converting enzyme,digestive_system_gastrointestinal 
+1229,cerebral venous thrombosis,cardiovascular
+1252,cholangiocarcinoma,oncology
+1266,type 1 von Willebrand disease,hematological 
+1286,COVID-19,infectious_disease
+1303,serum alkaline phosphatase,hepatic
+1305,epithelial ovarian cancer,oncology
+1308,PheWAS of ABO blood groups,hematological 
+1315,"colorectal cancer, serum carcinoembryonic antigen",oncology
+1366,malaria,infectious_disease
+1372,von Willebrand disease,hematological 
+1381,prostate cancer,oncology
+1406,red blood cell traits,hematological 
+1458,"gastric cancer, atrophic gastritis,",multiple_phenotypes
+1461,liver function,hepatic
+1517,von Willebrand factor propeptide,hematological 
+1530,familial hypercholesterolemia,cardiovascular
+1533,soluble ICAM-1,inflammatory
+1540,serum levels of soluble E-selectin,inflammatory
+1558,liver fibrosis,hepatic
+1561,E-selectin levels,inflammatory
+1565,ovarian cancer,oncology
+1574,"plasma soluble E-selectin levels, type 2 diabetes",metabolic
+1576,gut microbiota,digestive_system_gastrointestinal 
+1599,"Plasmodium vivax infection, anemia",hematological 
+1608,pancreatic cancer,oncology
+1613,pancreatic cancer risk,oncology
+1634,gut microbiome,digestive_system_gastrointestinal 
+1635,breast cancer,oncology
+1647,"von Willebrand factor, von Willebrand disease",hematological 
+1661,"estradiol, bone density",misc
+1668,"phytosterols, coronary artery disease",cardiovascular
+1705,circulating cytokines and cell adhesion molecules,inflammatory
+1706,myocardial infarction; venous thromboembolism,cardiovascular
+1724,deep venous thrombosis,cardiovascular
+1763,coagulation factor VIII and von Willebrand factor,hematological 
+1764,gastric cancer,oncology
+1766,duodenal ulcer,digestive_system_gastrointestinal 
+1795,malaria,infectious_disease
+1803,personality traits,misc
+1813,circulating chemokines and cytokines,inflammatory
+1853,serum lipase activit,digestive_system_gastrointestinal 
+1888,pancreatic cancer,oncology
+1893,COVID-19,infectious_disease
+1906,plasma von Willebrand factor levels,hematological 
+1912,"Kawasaki disease, coronary artery lesions",cardiovascular
+1926,Crohn's disease,immune_system
+1963,histologically normal and tumour derived pancreatic tissues,digestive_system_gastrointestinal 
+1967,Graves' disease,immune_system
+1970,ABO,hematological 
