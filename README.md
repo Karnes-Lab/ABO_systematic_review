@@ -1,0 +1,3 @@
+# Disparities in ABO blood type determination across diverse ancestries: a systematic review and validation in the All of Us Research Program
+
+This repository holds the code and data used for the systematic review portion of the following manuscript: [Kiana L Martinez, Andrew Klein, Jennifer R Martin, Chinwuwanuju U Sampson, Jason B Giles, Madison L Beck, Krupa Bhakta, Gino Quatraro, Juvie Farol, Jason H Karnes, Disparities in ABO blood type determination across diverse ancestries: a systematic review and validation in the All of Us Research Program, Journal of the American Medical Informatics Association, 2024;, ocae161, https://doi.org/10.1093/jamia/ocae161](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocae161/7699039).
